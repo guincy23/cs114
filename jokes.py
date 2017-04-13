@@ -1,5 +1,10 @@
+from time import sleep
 print("Knock Knock")
+sleep(2)
 print("Who's there")
+sleep(2)
 print("Orange")
+sleep(2)
 print("Orange who")
+sleep(2)
 print("Orange you going to let me in?")
